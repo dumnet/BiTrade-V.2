@@ -20,7 +20,7 @@ Download & Installation
 
 
 ```
-git clone https://github.com/Mediashare/BiTrade
+git clone https://github.com/Mediashare/BiTrade-V.2
 cd BiTrade/
 composer install
 ```
